@@ -246,6 +246,7 @@ input[type="submit"] {
 	font-size: 1.75rem;
 }
 
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
